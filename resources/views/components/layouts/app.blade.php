@@ -154,6 +154,7 @@
         </div>
         </div>
         @endforeach
+        
       <div class="col-12 col-sm-6 col-md-3">
         <div class="footer-links clearfix mt-3 animated zoomIn" style="animation-delay:2s">
                       <h4 class="footer-title">quick-links</h4>
