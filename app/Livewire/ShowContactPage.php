@@ -9,6 +9,9 @@ class ShowContactPage extends Component
 {
 
     public $settingdetials;
+
+
+    
     public function mount()
     {
       $this->settingdetials=Setting::all();
