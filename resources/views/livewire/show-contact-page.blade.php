@@ -118,7 +118,7 @@ and we’ll be sure to reply as fast as possible.</p>
     </div>
 
     <div class="map-wrap bg-white my-5">
-    <div wire:html="mapIframe"></div>
+    {!! $settingdetial->map !!}
     </div>
       @endforeach
   </div>

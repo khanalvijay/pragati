@@ -107,7 +107,7 @@
              <section class="schemes-wrapper clearfix">
     <div class="container">
       <div class="scheme-inner">
-        <div class="title-sub">Schemes</div>
+        
         <div class="title-widget">
           <h2>Our <span>Schemes</span></h2>
         </div>
@@ -154,7 +154,7 @@
   <section class="remittance-wrapper clearfix">
     <div class="container">
       <div class="scheme-inner">
-        <div class="title-sub">Remittance</div>
+        
         <div class="title-widget">
           <h2>Remittance <span>Services</span></h2>
         </div>
